@@ -70,7 +70,11 @@ serverScript/class folder
 ![Screenshot](ss/6.candidate_details_4.png)
 
 # Contributors
-	Ankit Shaw [https://github.com/ankitshaw]
 	Pratik Watwani [https://github.com/pratikwatwani]
+	Ankit Shaw [https://github.com/ankitshaw]
 	Swastika Thakur [https://github.com/swastika-thakur]
 	Pravin Tripathi [https://github.com/pravinyo]
+
+# IEEE Publication
+	Discover Discover Cross-Modal Human Behavior Analysis
+	DOI: 10.1109/ICECA.2018.8474611
