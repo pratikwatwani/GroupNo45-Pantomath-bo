@@ -1,4 +1,4 @@
-# use xampp
+# Use xampp
 
 import that database file in database folder
 
@@ -11,7 +11,7 @@ serverScript/class folder
 
 	type: localhost/front-end/  in address bar
 
-# update:
+# Update:
 	- Interview start Progress bar added
 	- streaming issue resolved
 	- UI modified in interview page
@@ -32,7 +32,7 @@ serverScript/class folder
 	Enter the email id of the candidate and press proceed to interview button to initiate the Interview process
 	open the detail page of any candidate and go to lower section. realtime analytics are viewable
 
-# future update:
+# Future update:
 	Multiple Interview Environeent capability maybe added
 	Multiple Interview support can be added
 
